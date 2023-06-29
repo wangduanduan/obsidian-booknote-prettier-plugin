@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-book-notes-prettier-plugin",
 	"name": "Book Notes Prettier",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "这个插件用来美化微信阅读导出的笔记",
 	"author": "wangduanduan",
