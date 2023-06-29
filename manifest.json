@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-book-notes-prettier-plugin",
+	"name": "Book Notes Prettier",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "这个插件用来美化微信阅读导出的笔记",
+	"author": "wangduanduan",
+	"authorUrl": "https://github.com/wangduanduan",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
